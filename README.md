@@ -1,5 +1,5 @@
-# Links.github.io
-this is a simple html-css way of creating links
+# Links
+This is a simple html-css way of creating links
 
 CSS3 Filters are a quite interesting offshoot from SVG, allowing you to modify HTML elements and images with blurs, brightness and a lot more. In this quick tutorial we’ll go over exactly how they’re going to work.
 
